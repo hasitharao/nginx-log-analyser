@@ -1,0 +1,3 @@
+nginx-access.log
+out*.txt
+.DS_Store
